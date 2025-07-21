@@ -88,6 +88,14 @@
     "七七资源": {
       "api": "https://www.qiqidys.com/api.php/provide/vod",
       "name": "七七资源"
+    },
+    "baidu": {
+        api: 'https://api.apibdzy.com/api.php/provide/vod',
+        name: '百度云资源'
+    },
+	  "hwba": {
+        api: 'https://cjhwba.com/api.php/provide/vod',
+        name: '华为吧资源',
     }
   }
 }
